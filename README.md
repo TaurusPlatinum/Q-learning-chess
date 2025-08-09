@@ -65,10 +65,10 @@ Bishop demonstrated **faster convergence** due to direct diagonal mobility, whil
 
 ## Path Visualization
 **Bishop — Optimal Path:**  
-[![](doc/bishop/1.png)](doc/bishop/1.png) [![](doc/bishop/2.png)](doc/bishop/2.png) [![](doc/bishop/3.png)](doc/bishop/3.png) [![](doc/bishop/4.png)](doc/bishop/4.png) [![](doc/knight/5.png)](doc/knight/5.png)
+[![](doc/bishop/1.png)](doc/bishop/1.png) [![](doc/bishop/2.png)](doc/bishop/2.png) [![](doc/bishop/3.png)](doc/bishop/3.png) [![](doc/bishop/4.png)](doc/bishop/4.png) 
 
 **Knight — Optimal Path:**  
-[![](doc/knight/1.png)](doc/knight/1.png) [![](doc/knight/2.png)](doc/knight/2.png) [![](doc/knight/3.png)](doc/knight/3.png) [![](doc/knight/4.png)](doc/knight/4.png)
+[![](doc/knight/1.png)](doc/knight/1.png) [![](doc/knight/2.png)](doc/knight/2.png) [![](doc/knight/3.png)](doc/knight/3.png) [![](doc/knight/4.png)](doc/knight/4.png) [![](doc/knight/5.png)](doc/knight/5.png)
 
 
 ---

@@ -57,8 +57,8 @@ Bishop demonstrated **faster convergence** due to direct diagonal mobility, whil
 
 | Agent   | Avg. Reward After Convergence | Convergence Episodes |
 |---------|-------------------------------|----------------------|
-| Bishop  | ~95                           | ~150                 |
-| Knight  | ~88                           | ~250                 |
+| Bishop  | ~98                           | ~1000                |
+| Knight  | ~97                           | ~1000                |
 
 ![Reward Progression](doc/graph.png)
 

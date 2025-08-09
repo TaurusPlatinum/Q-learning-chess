@@ -60,6 +60,7 @@ Bishop demonstrated **faster convergence** due to direct diagonal mobility, whil
 | Bishop  | ~95                           | ~150                 |
 | Knight  | ~88                           | ~250                 |
 
+![Reward Progression](doc/graph.png)
 
 ---
 
@@ -77,12 +78,4 @@ Bishop demonstrated **faster convergence** due to direct diagonal mobility, whil
 1. **Movement Constraints Impact Learning** — direct movement patterns accelerate convergence.
 2. **Exploration vs. Exploitation** — Knight explored more states but took longer to stabilize.
 3. **Reward Structures Shape Policy** — small penalties per step encouraged shorter paths.
-
----
-
-## 🚀 How to Run
-```bash
-git clone https://github.com/yourusername/chess-agents-analytics.git
-cd chess-agents-analytics
-pip install -r requirements.txt
 python main.py

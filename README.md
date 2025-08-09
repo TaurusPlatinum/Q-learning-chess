@@ -60,8 +60,6 @@ Bishop demonstrated **faster convergence** due to direct diagonal mobility, whil
 | Bishop  | ~95                           | ~150                 |
 | Knight  | ~88                           | ~250                 |
 
-**Example Reward Progression Plot:**
-![Reward Progression](docs/reward_progression.png)
 
 ---
 
